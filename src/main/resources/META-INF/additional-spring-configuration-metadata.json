@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "number.of.mazes.in.ready.stage",
+      "type": "java.lang.Integer",
+      "description": "Description for number.of.mazes.in.ready.stage."
+    },
+    {
+      "name": "maze.file",
+      "type": "java.lang.String",
+      "description": "Description for maze.file."
+    }
+  ]
+}
